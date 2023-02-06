@@ -12,6 +12,14 @@ For a beginner developer who is starting from zero, can practice it using online
 
 But you should remember the web architecture and mobile architecture is completely different. So every thing you can't practice online. For this reason it is good to have your own computer to practice.
 
+## Duration
+
+It is going to be a 18 Months course but devided into 3 parts.
+
+- Part 1: Helpful for complete beginners
+- Part 2: For Intermediate Users
+- Part 3: For advanced Users
+
 ## Curriculum
 
 
